@@ -10,7 +10,7 @@ export default function Home() {
         {/* Text Section */}
         <div className="text-center md:text-left flex flex-col items-center md:items-start">
           <h1 className="text-4xl text-purple-700 font-bold mb-4">
-            Welcome Aboard!
+            Welcome Aboard Tech Enthusiasts!
           </h1>
           <p className="text-lg text-gray-700 mb-4">
             Let&apos;s build our first Next.js project!
