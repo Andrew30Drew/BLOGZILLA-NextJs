@@ -3,19 +3,19 @@ export default function about() {
     <div className="flex min-h-screen bg-gray-50">
       <div>
         <h1 className="text-3xl text-purple-700 font-bold mb-4">About Us</h1>
-        <p> 
+        <p>
           Welcome to Blogzilla, your go-to destination for insightful articles,
-          tech trends, and creative ideas. Whether you're a developer, designer,
-          entrepreneur, or just someone who loves learning new things, we’re
-          here to keep you inspired.
+          tech trends, and creative ideas. Whether you&apos;re a developer,
+          designer, entrepreneur, or just someone who loves learning new things,
+          we&apos;re here to keep you inspired.
         </p>
         <br />
         <h1 className="text-3xl text-purple-700 font-bold mb-4">Who We Are</h1>
         <p>
-          We’re a team of passionate writers, tech enthusiasts, and innovators
-          who believe in sharing knowledge and experiences. Our goal is to
-          create high-quality content that educates, entertains, and sparks
-          curiosity.
+          We&apos;re a team of passionate writers, tech enthusiasts, and
+          innovators who believe in sharing knowledge and experiences. Our goal
+          is to create high-quality content that educates, entertains, and
+          sparks curiosity.
         </p>
         <br />
         <h1 className="text-3xl text-purple-700 font-bold mb-4">What We Do</h1>
@@ -63,7 +63,7 @@ export default function about() {
           <br />
           <br />
           <span className="font-bold text-gray-800">
-            🚀 Let’s learn and grow together!
+            🚀 Let&apos;s learn and grow together!
           </span>
         </p>
       </div>

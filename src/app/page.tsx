@@ -13,7 +13,7 @@ export default function Home() {
             Welcome Aboard!
           </h1>
           <p className="text-lg text-gray-700 mb-4">
-            Let's build our first Next.js project!
+            Let&apos;s build our first Next.js project!
           </p>
           <a
             href="/blog/posts"
